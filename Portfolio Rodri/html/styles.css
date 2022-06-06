@@ -1,0 +1,112 @@
+.nav-ul{
+    background: rgb(88, 149, 230);
+    color: #1c8092;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    padding: auto;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.nav-ul:hover{
+    background: rgb(59, 131, 226);
+    color: #3ebed4;
+}
+
+.nav{
+    background: #91e4f7;
+    padding: 20px;
+    width: 100%;
+    height: 70px;
+    margin-right: 10px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    display: inline-block;
+    padding: -20px;
+    
+}
+
+li{
+    display: inline-block;
+    padding: 10px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    text-align: right;
+}
+
+a:hover{
+    color: #bbb;
+}
+.divnav{
+    float: right;
+    margin-right: 22px;
+}
+section{
+    padding: 0 0 50px 0;
+}
+#mistrabajos{
+    color: #333
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    display: inline-block;
+    padding: -20px;
+}
+p{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    padding: -20px;
+    color: #333
+}
+.link{
+    color: #333;
+}
+.muestras{
+    border: #333 2px;
+    width: 30%;
+    display: inline-block;
+
+}
+.articulo{
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #555;
+}
+.negrita{
+    font-size: 18px;
+}
+td{
+    width: 25%;
+}
+.ppal{
+    font-size: 22px;
+    align-content: center;
+    background-color: #1c8092;
+    color: #eee;
+    padding: 10px;
+}
+.link-contacto{
+    font-size: 20px;
+    background-color: #3ebed4;
+    color: #333;
+    padding: 10px;
+}
+.link-contacto:hover{
+    color: rgb(240, 210, 210);
+    background-color: #eee;
+}
+.piedepag{
+    height: 25px;
+    background-color: #3ebed4;
+    color: #bbb;
+    text-align: center;
+}
